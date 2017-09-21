@@ -1,0 +1,5 @@
+# Cookiecutter template for questions from TeX.sx
+
+This is my personal template for writing answers for TeX.sx. It will create
+dummy TeX file with configuration file for tex4ht and Makefile for compilation
+to PDF and HTML.
