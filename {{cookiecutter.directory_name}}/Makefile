@@ -1,5 +1,5 @@
 mode = draft
-engine = 
+engine = {{cookiecutter.engine}}
 
 ifeq ({{cookiecutter.engine}}, lualatex)
 	engine = -l
